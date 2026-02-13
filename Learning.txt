@@ -1,0 +1,4 @@
+Supervised learning uses labeled data to map inputs to known outputs, enabling precise classification (e.g., spam detection) and regression (e.g., price forecasting).
+
+
+Unsupervised learning analyzes unlabeled data to discover hidden patterns, such as customer segmentation, anomaly detection (fraud), and dimensionality reduction.

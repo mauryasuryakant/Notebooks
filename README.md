@@ -22,7 +22,7 @@ This repository is my **personal learning space** where I dive into machine lear
 | File | Purpose |
 |------|---------|
 | `sklTest.ipynb` | 📔 Main Jupyter Notebook with Scikit-Learn experiments |
-| `errorFix.py` | 🐛 Python script for debugging and fixing notebook errors |
+| `try&Error.py` | 🐛 Python script for debugging and fixing notebook errors |
 | `data.csv` | 📊 Dataset for model training and preprocessing |
 | `requirements.txt` | 📦 Python dependencies |
 | `.gitignore` | 🚫 Git ignore rules |
