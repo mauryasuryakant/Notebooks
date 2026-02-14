@@ -1,10 +1,4 @@
-Here’s a **clean, updated README.md** that matches your actual file structure and looks more structured and professional while still keeping your learning-focused tone.
-
-You can replace your current `README.md` with this:
-
----
-
-# 🚀 Machine Learning Learning Lab (Scikit-Learn)
+# 🚀 Machine Learning Lab (Scikit-Learn)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square\&logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square\&logo=jupyter)](https://jupyter.org/)
@@ -93,7 +87,7 @@ Production_testing/
 
 ```bash
 git clone https://github.com/mauryasuryakant/Notebooks.git
-cd Notebooks/Production_testing
+cd Notebooks
 ```
 
 ### 2️⃣ Install Dependencies
@@ -105,13 +99,13 @@ pip install -r requirements.txt
 ### 3️⃣ Run Notebooks
 
 ```bash
-cd notebooks
 jupyter notebook
 ```
 
 ### 4️⃣ Run Python Scripts
 
 ```bash
+cd Production_testing
 python collect_data.py
 python preprocessing.py
 ```
